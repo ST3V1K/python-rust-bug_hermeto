@@ -1,0 +1,9 @@
+cffi==2.0.0 \
+    --hash=sha256:44d1b5909021139fe36001ae048dbdde8214afa20200eda0f64c068cac5d5529
+    # via cryptography
+cryptography==44.0.3 \
+    --hash=sha256:fe19d8bc5536a91a24a8133328880a41831b6c5df54599a8417b62fe015d3053
+    # via -r requirements.in
+pycparser==2.22 \
+    --hash=sha256:491c8be9c040f5390f5bf44a5b07752bd07f56edf992381b05c701439eec10f6
+    # via cffi
